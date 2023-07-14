@@ -1,4 +1,4 @@
-# OKD (Open-Source OpenShift) UPI install with Fedora COREOS & vSphere 6.7U3
+# OKD (Open-Source OpenShift) UPI install with COREOS & vSphere 6.7U3
 
 ### After mastering various installs of OCP, I tried my hand at OKD and quickly learned it's not the same. Follow along in this script for your install.
 
